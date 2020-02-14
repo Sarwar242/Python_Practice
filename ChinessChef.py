@@ -1,12 +1,9 @@
-class ChineseChef:
-    def make_chicken(self):
-        print("The Chef makes a Chicken.")
+from Chef import Chef
 
-    def make_salad(self):
-        print("The Chef makes a Salad.")
-
+class ChineseChef(Chef):
+    #override
     def make_special_dish(self):
-        print("The Chef makes a Orange Juice.")
+        print("The Chinese Chef makes Orange Chicken.")
 
     def make_fried_rice(self):
         print("The chef makes fried rice.")

@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6deb7d88-e3a5-45c5-a001-4dcbf5baaf77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python Practice/Chef.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Practice/ChinessChef.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Practice/Question.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Practice/Quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Practice/Student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Practice/Tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python Practice/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python Practice/ChinessChef.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python Practice/ChinessChef.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,9 +204,25 @@
       <option name="presentableId" value="Default" />
       <updated>1581675936806</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python Class, quiz program">
+      <created>1581682811175</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581682811175</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python Class, quiz program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python Class, quiz program" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1581682809855">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1581682809855" />
     <state x="463" y="128" key="FileChooserDialogImpl" timestamp="1581678267607">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -225,22 +235,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="511" y="92" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1581678347497" />
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581682759430">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom" timestamp="1581683033174">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581682759430" />
-    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581682759430">
+    <state width="1345" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581683033174" />
+    <state width="1345" height="192" key="GridCell.Tab.0.center" timestamp="1581683033174">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581682759430" />
-    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581682759430">
+    <state width="1345" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581683033174" />
+    <state width="1345" height="192" key="GridCell.Tab.0.left" timestamp="1581683033164">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581682759430" />
-    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581682759430">
+    <state width="1345" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581683033164" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right" timestamp="1581683033174">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581682759430" />
+    <state width="1345" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581683033174" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1581680535459">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -261,6 +271,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="186" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581680712908" />
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2" timestamp="1581682814055">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="120" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1581682814055" />
     <state x="494" y="303" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581678278892">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
